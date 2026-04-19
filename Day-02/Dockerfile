@@ -1,2 +1,2 @@
-From ububtu:latest
-CMD ["echo", "Hello World!"]
+FROM ubuntu:latest
+RUN ["echo","Hello World! I am Sudipta"]
